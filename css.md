@@ -15,3 +15,12 @@
           https://www.youtube.com/watch?v=kMT54MPz9oE&t=5113s&ab_channel=freeCodeCamp.org
            </a>
 </details>
+
+<details>
+           <summary>
+5 Minute Beginner’s Guide to CSS Flexbox
+           </summary>
+           <a href="https://medium.com/@jillplatts/6-minute-beginners-guide-to-css-flexbox-527b3ff3480b">
+          https://medium.com/@jillplatts/6-minute-beginners-guide-to-css-flexbox-527b3ff3480b
+           </a>
+</details>
