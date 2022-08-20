@@ -24,3 +24,12 @@
           https://medium.com/@jillplatts/6-minute-beginners-guide-to-css-flexbox-527b3ff3480b
            </a>
 </details>
+
+<details>
+           <summary>
+Learn CSS Flexbox in 5 minutes - A tutorial for beginners
+           </summary>
+           <a href="https://www.freecodecamp.org/news/learn-css-flexbox-in-5-minutes-b941f0affc34/">
+          https://www.freecodecamp.org/news/learn-css-flexbox-in-5-minutes-b941f0affc34/
+           </a>
+</details>
