@@ -42,3 +42,12 @@ Flexbox CSS In 20 Minutes
           https://www.youtube.com/watch?v=JJSoEo8JSnc&ab_channel=TraversyMedia
            </a>
 </details>
+
+<details>
+           <summary>
+Learn Flexbox in 15 Minutes
+           </summary>
+           <a href="https://www.youtube.com/watch?v=fYq5PXgSsbE&ab_channel=WebDevSimplified">
+          https://www.youtube.com/watch?v=fYq5PXgSsbE&ab_channel=WebDevSimplified
+           </a>
+</details>
