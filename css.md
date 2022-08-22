@@ -33,3 +33,12 @@ Learn CSS Flexbox in 5 minutes - A tutorial for beginners
           https://www.freecodecamp.org/news/learn-css-flexbox-in-5-minutes-b941f0affc34/
            </a>
 </details>
+
+<details>
+           <summary>
+Flexbox CSS In 20 Minutes
+           </summary>
+           <a href="https://www.youtube.com/watch?v=JJSoEo8JSnc&ab_channel=TraversyMedia">
+          https://www.youtube.com/watch?v=JJSoEo8JSnc&ab_channel=TraversyMedia
+           </a>
+</details>
