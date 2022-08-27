@@ -51,3 +51,12 @@ Learn Flexbox in 15 Minutes
           https://www.youtube.com/watch?v=fYq5PXgSsbE&ab_channel=WebDevSimplified
            </a>
 </details>
+
+<details>
+           <summary>
+Learn flexbox the easy way
+           </summary>
+           <a href="https://www.youtube.com/watch?v=u044iM9xsWU&t=1s&ab_channel=KevinPowell">
+         https://www.youtube.com/watch?v=u044iM9xsWU&t=1s&ab_channel=KevinPowell
+           </a>
+</details>
