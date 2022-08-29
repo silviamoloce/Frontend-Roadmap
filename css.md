@@ -69,3 +69,12 @@ Flexbox design patterns you can use in your projects
          https://www.youtube.com/watch?v=vQAvjof1oe4&t=468s&ab_channel=KevinPowell
            </a>
 </details>
+
+<details>
+           <summary>
+CSS Flexbox Tutorial #1 - Introduction
+           </summary>
+           <a href="https://www.youtube.com/watch?v=Y8zMYaD1bz0&list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG&ab_channel=TheNetNinja">
+https://www.youtube.com/watch?v=Y8zMYaD1bz0&list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG&ab_channel=TheNetNinja
+           </a>
+</details>
