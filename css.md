@@ -60,3 +60,12 @@ Learn flexbox the easy way
          https://www.youtube.com/watch?v=u044iM9xsWU&t=1s&ab_channel=KevinPowell
            </a>
 </details>
+
+<details>
+           <summary>
+Flexbox design patterns you can use in your projects
+           </summary>
+           <a href="https://www.youtube.com/watch?v=vQAvjof1oe4&t=468s&ab_channel=KevinPowell">
+         https://www.youtube.com/watch?v=vQAvjof1oe4&t=468s&ab_channel=KevinPowell
+           </a>
+</details>
