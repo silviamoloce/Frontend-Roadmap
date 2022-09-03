@@ -78,3 +78,12 @@ CSS Flexbox Tutorial #1 - Introduction
 https://www.youtube.com/watch?v=Y8zMYaD1bz0&list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG&ab_channel=TheNetNinja
            </a>
 </details>
+
+<details>
+           <summary>
+Responsive design made easy
+           </summary>
+           <a href="https://www.youtube.com/watch?v=bn-DQCifeQQ&t=1001s&ab_channel=KevinPowell">
+https://www.youtube.com/watch?v=bn-DQCifeQQ&t=1001s&ab_channel=KevinPowell
+           </a>
+</details>
