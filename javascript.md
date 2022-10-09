@@ -17,3 +17,12 @@ Learn Javascript Programming #6: Functions
 https://www.youtube.com/watch?v=uiv3oLsHbaI&ab_channel=whatsdev
   </a>
 </details>
+
+<details>
+           <summary>
+JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour
+           </summary>
+           <a href="https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh">
+https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh
+  </a>
+</details>
