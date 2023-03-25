@@ -44,3 +44,30 @@ JavaScript Cardio [Session 1] - Reversals, FizzBuzz, MaxChar
 https://www.youtube.com/watch?v=M2bJBuaOeOQ&t=353s&ab_channel=TraversyMedia
            </a>
 </details>
+
+<details>
+           <summary>
+JavaScript Array Filter Method Practice in 5 Minutes
+           </summary>
+           <a href="https://www.youtube.com/watch?v=3LOEGS4qcRM&list=PLDlWc9AfQBfZGZXFb_1tcRKwtCavR7AfT&index=1&ab_channel=JamesQQuick">
+https://www.youtube.com/watch?v=3LOEGS4qcRM&list=PLDlWc9AfQBfZGZXFb_1tcRKwtCavR7AfT&index=1&ab_channel=JamesQQuick
+           </a>
+</details>
+
+<details>
+           <summary>
+JavaScript Array Map Method Practice in 5 Minutes
+           </summary>
+           <a href="https://www.youtube.com/watch?v=G6J2kl1aVao&list=PLDlWc9AfQBfZGZXFb_1tcRKwtCavR7AfT&index=2&ab_channel=JamesQQuick">
+https://www.youtube.com/watch?v=G6J2kl1aVao&list=PLDlWc9AfQBfZGZXFb_1tcRKwtCavR7AfT&index=2&ab_channel=JamesQQuick
+           </a>
+</details>
+
+<details>
+           <summary>
+JavaScript Array Sort Method Practice in 5 Minutes
+           </summary>
+           <a href="https://www.youtube.com/watch?v=nq0DC5M3Kc8&list=PLDlWc9AfQBfZGZXFb_1tcRKwtCavR7AfT&index=4&ab_channel=JamesQQuick">
+https://www.youtube.com/watch?v=nq0DC5M3Kc8&list=PLDlWc9AfQBfZGZXFb_1tcRKwtCavR7AfT&index=4&ab_channel=JamesQQuick
+           </a>
+</details>
