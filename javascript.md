@@ -71,3 +71,13 @@ JavaScript Array Sort Method Practice in 5 Minutes
 https://www.youtube.com/watch?v=nq0DC5M3Kc8&list=PLDlWc9AfQBfZGZXFb_1tcRKwtCavR7AfT&index=4&ab_channel=JamesQQuick
            </a>
 </details>
+
+<details>
+           <summary>
+Object-oriented Programming in JavaScript: Made Super Simple | Mosh
+           </summary>
+           <a href="https://www.youtube.com/watch?v=PFmuCDHHpwk&t=283s&ab_channel=ProgrammingwithMosh">
+https://www.youtube.com/watch?v=PFmuCDHHpwk&t=283s&ab_channel=ProgrammingwithMosh
+           </a>
+</details>
+
